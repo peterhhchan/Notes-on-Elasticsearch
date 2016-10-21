@@ -32,5 +32,7 @@ The optimal number of shards per node is 1.
 
 * Don't store the seconds and milliseconds in the date if you don't need it.
 
+* [Rename] (http://logz.io/blog/the-top-5-elasticsearch-mistakes-how-to-avoid-them/) your production cluster to prevent other nodes from joining it :p.  
+
 Sources:
 https://www.quora.com/What-are-some-good-practices-when-using-Elasticsearch
