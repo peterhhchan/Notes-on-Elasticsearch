@@ -23,6 +23,8 @@ The optimal number of shards per node is 1.
 
 ## Elasticsearch Best Practices
 
+* PRO-TIP: Googling "x best practices".
+
 * Heap Size
   https://www.elastic.co/guide/en/elasticsearch/guide/current/_limiting_memory_usage.html
 
